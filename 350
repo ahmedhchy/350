@@ -177,10 +177,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdix
 #EXTGRP:HINDI MOVIES
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/147
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdixx
 #EXTGRP:HINDI MOVIES
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/147
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdixxx
 #EXTGRP:HINDI MOVIES
 http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold SD
@@ -192,9 +192,6 @@ https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD select 2 HD
 #EXTGRP:HINDI MOVIES
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/823
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD select 2 HD
-#EXTGRP:HINDI MOVIES
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/823
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
 #EXTGRP:HINDI MOVIES
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
