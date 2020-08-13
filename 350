@@ -165,7 +165,7 @@ http://oqab.life:31000/ropon@25/ropon25/114
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD FHD 2
 #EXTGRP:HINDI MOVIES
 http://103.205.133.19/hls/andpicture.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES", & Xplore HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfEpxbNKDgm8USf3fmJhzELlsDoSmCmnu-ug&usqp=CAU" group-title="HINDI MOVIES", & Xplore HD
 #EXTGRP:HINDI MOVIES
 http://three.somee.com/web.php?c=andpicshd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX SD
