@@ -107,10 +107,12 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTGRP:Bangla News
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 #EXTGRP:BANGLA ENT.
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD Bdix
+#EXTGRP:BANGLA ENT.
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla HD
 #EXTGRP:BANGLA ENT.
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
@@ -172,12 +174,27 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD
 #EXTGRP:HINDI MOVIES
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdix
+#EXTGRP:HINDI MOVIES
+http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/147
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdix
+#EXTGRP:HINDI MOVIES
+http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/147
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdix
+#EXTGRP:HINDI MOVIES
+http://216.144.250.174/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="HINDI MOVIES",Star Gold SD
 #EXTGRP:HINDI MOVIES
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD
 #EXTGRP:HINDI MOVIES
 https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD select 2 HD
+#EXTGRP:HINDI MOVIES
+http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/823
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="HINDI MOVIES",Star Gold HD select 2 HD
+#EXTGRP:HINDI MOVIES
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/823
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="HINDI MOVIES",Star Gold 2
 #EXTGRP:HINDI MOVIES
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
@@ -236,6 +253,9 @@ http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY SAB HD
 #EXTGRP:HINDI ENT.
 http://45.249.187.238:8081/hls/tsl-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY SAB HD
+#EXTGRP:HINDI ENT.
+http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/657
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
 #EXTGRP:HINDI ENT.
 http://103.141.66.36/bpk-tv/10028/default/manifest.mpd?=.m3u8
