@@ -501,8 +501,6 @@ http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH MOVIES", Star Movies
 #EXTGRP:ENGLISH MOVIES
 http://45.249.187.238:8081/hls/tsl-8.m3u8
-#EXTINF:-1tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH
-#EXTGRP:ENGLISH MOVIES
 #EXTINF:-1 tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB HD
 #EXTGRP:ENGLISH MOVIES
 https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
@@ -675,6 +673,7 @@ https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 #EXTGRP:KIDS
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
+#EXTGRP:RELIGIOUS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="RELIGIOUS",Saudi Quran
 #EXTGRP:RELIGIOUS
 http://103.141.66.36/bpk-tv/10201/default/manifest.mpd?=.m3u8
