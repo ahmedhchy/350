@@ -171,10 +171,10 @@ http://three.somee.com/web.php?c=andpicshd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX SD
 #EXTGRP:HINDI MOVIES
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 group-title="HINDI MOVIES", B4U Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8_uieLjJVZSKW3VZYlc3uy_sc2oticNcy0Q&usqp=CAU" group-title="HINDI MOVIES", B4U Movies
 #EXTGRP:HINDI MOVIES
 http://103.141.66.36/bpk-tv/10331/default/manifest.mpd
-#EXTINF:-1 group-title="HINDI MOVIES", Enter 10
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6hMETqngkApaYXaaY203z7vQvynSdnlBHHQ&usqp=CAU" group-title="HINDI MOVIES", Enter 10
 #EXTGRP:HINDI MOVIES
 http://103.141.66.36/bpk-tv/10137/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELlgud2.png" group-title="HINDI MOVIES",UTV Action
