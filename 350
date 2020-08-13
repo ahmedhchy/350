@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTGRP:Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Bangla",BTV
+#EXTGRP:Bangla
+http://103.141.66.36/bpk-tv/10330/default/manifest.mpd?=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla",Sangsad TV
+#EXTGRP:Bangla
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangla",BTV WORLD
+#EXTGRP:Bangla
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla",Gazi TV HD
+#EXTGRP:Bangla
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="Bangla News",ATN NEWS
+#EXTGRP:Bangla News
+http://103.141.66.36/bpk-tv/10010/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangla News",JAMUNA TV
+#EXTGRP:Bangla News
+http://103.141.66.36/bpk-tv/10037/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangla News",CHANNEL 24
+#EXTGRP:Bangla News
+http://103.141.66.36/bpk-tv/10008/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS",BBC Cbeebies 2
+#EXTGRP:KIDS
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20fs4tp.png" group-title="KIDS",Disney INDIA
+#EXTGRP:KIDS
+http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 group-title="KIDS",Pogo SD
+#EXTGRP:KIDS
+http://45.249.187.238:8081/hls/hdmi1.m3u8
