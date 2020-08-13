@@ -159,6 +159,15 @@ http://103.141.66.36/bpk-tv/10190/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD 
 #EXTGRP:HINDI MOVIES
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD  FHD
+#EXTGRP:HINDI MOVIES
+http://oqab.life:31000/ropon@25/ropon25/114
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD FHD 2
+#EXTGRP:HINDI MOVIES
+http://103.205.133.19/hls/andpicture.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES", & Xplore HD
+#EXTGRP:HINDI MOVIES
+http://three.somee.com/web.php?c=andpicshd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX SD
 #EXTGRP:HINDI MOVIES
 http://otv.ftpbd.net/streams/109/index.m3u8
