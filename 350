@@ -259,9 +259,11 @@ http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="HINDI ENT.",SONY HD a
 #EXTGRP:HINDI ENT.
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY SAB HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY SAB SD
 #EXTGRP:HINDI ENT.
 http://45.249.187.238:8081/hls/tsl-4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY SAB HD
 #EXTGRP:HINDI ENT.
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/657
