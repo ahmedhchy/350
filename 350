@@ -264,10 +264,6 @@ http://51.52.156.22:8888/http/009
 #EXTGRP:HINDI ENT.
 http://45.249.187.238:8081/hls/tsl-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY SAB HD
-#EXTGRP:HINDI ENT.
-http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/657
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RI1G0qY.jpg" group-title="HINDI ENT.",And TV
 #EXTGRP:HINDI ENT.
 http://103.141.66.36/bpk-tv/10028/default/manifest.mpd?=.m3u8
@@ -275,6 +271,10 @@ http://103.141.66.36/bpk-tv/10028/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="HINDI ENT.",And TV HD
 #EXTGRP:HINDI ENT.
 http://103.141.66.36/bpk-tv/10182/default/manifest.mpd?=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="HINDI ENT.",SONY SAB HD
+#EXTGRP:HINDI ENT.
+http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/657
 
 #EXTINF:-1 group-title="HINDI ENT.",UTV HD
 #EXTGRP:HINDI ENT.
