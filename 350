@@ -156,6 +156,15 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture
 #EXTGRP:HINDI MOVIES
 http://103.141.66.36/bpk-tv/10190/default/manifest.mpd?=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",ABZY MOVIES
+#EXTGRP:HINDI MOVIES
+NFUzTXQ1aWJwNXljbGxtZHYxa2NoUjNjNXQyVXVBVE95VXpMenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhjd0ZtTXExU013TVdMdDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",MAHA MOVIE
+#EXTGRP:HINDI MOVIES
+NFUzTXQ1aWJwNVNacFozYk5GR2FoMWtMd0lET3k4eWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdFl6TXdNV0x0OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",BOLLYWOOD
+#EXTGRP:HINDI MOVIES
+PWdUZHowbUx1bG1MazkyYjNsSGJzOW1RdUVETXdnekx6eEdhdlFYWnU1U2EzNUdiczV5Y3VNSGN3Rm1NcTFTT3dNV0x0OXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD 
 #EXTGRP:HINDI MOVIES
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
@@ -517,7 +526,9 @@ http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="ENGLISH ENT.",MR BEAN SHOW
 #EXTGRP:ENGLISH ENT.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595631536/ei/UBMbX5cdpv3j4Q_3jKmgCg/ip/103.138.145.142/id/_0dz86BC6k8.0/source/yt_live_broadcast/requiressl/yes/tx/23880666/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ70owS-Qkbq7tBu7gnLK6KoRgxyffScRYEKcvsUyu_sAiBhm_-ywsdus5frEkjfdVKMQMCq858K8ZTW15ka4l_t8A%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="ENGLISH ENT.",MR BEAN SHOW
 #EXTGRP:ENGLISH ENT.
+PT1BTTkwMmRrVldadTlqZHNabUxoVkdaNFkyWXhjVE95RW1ObVJXTWtObU00Z2pZa05XWndJRE9pZGpONFlqYzVJak4zSUROeUVUTjVrVE54VTNjdlVtZHB4Mkx3Z2pPMlJuTHYxV2F1NWlkc1ptTHpkM0x2b0RjMFJIYQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.",Comedy Central
 #EXTGRP:ENGLISH ENT.
 https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
