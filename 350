@@ -564,6 +564,9 @@ http://103.205.133.14/hls/sonypix.m3u8
 #EXTINF:-1tvg-logo=" https://i.imgur.com/gUu2nMa.png " group-title="ENGLISH MOVIES", HBO
 #EXTGRP:ENGLISH MOVIES
 http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1tvg-logo=" https://i.imgur.com/gUu2nMa.png " group-title="ENGLISH MOVIES", HBO HD
+#EXTGRP:ENGLISH MOVIES
+http://iptvpro.premium-showtv.org:8789/1234567/7654321/1955
 #EXTINF:-1tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH MOVIES", Star Movies
 #EXTGRP:ENGLISH MOVIES
 http://45.249.187.238:8081/hls/tsl-8.m3u8
