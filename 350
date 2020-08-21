@@ -27,6 +27,9 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
 #EXTGRP:Bangla
 http://103.141.66.36/bpk-tv/10009/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
+#EXTGRP:Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangla",Channel I HD
 #EXTGRP:Bangla
 http://103.141.66.36/bpk-tv/10026/default/manifest.mpd
@@ -109,7 +112,12 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangla News",News 24 HD
 #EXTGRP:Bangla News
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-
+#EXTINF:-1 group-title="Bangla News", Kolkata TV
+#EXTGRP:Bangla News
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
+#EXTINF:-1 group-title="Bangla News",,Akash 8
+#EXTGRP:Bangla News
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD
 #EXTGRP:BANGLA ENT.
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
@@ -167,7 +175,7 @@ NFUzTXQ1aWJwNXljbGxtZHYxa2NoUjNjNXQyVXVBVE95VXpMenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhj
 NFUzTXQ1aWJwNVNacFozYk5GR2FoMWtMd0lET3k4eWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdFl6TXdNV0x0OXlMNk1IYzBSSGE=
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",BOLLYWOOD
 #EXTGRP:HINDI MOVIES
-PWdUZHowbUx1bG1MazkyYjNsSGJzOW1RdUVETXdnekx6eEdhdlFYWnU1U2EzNUdiczV5Y3VNSGN3Rm1NcTFTT3dNV0x0OXlMNk1IYzBSSGE=
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="HINDI MOVIES",And Picture HD 
 #EXTGRP:HINDI MOVIES
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
@@ -312,9 +320,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
 #EXTGRP:SPORTS
 http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD extra
 #EXTGRP:SPORTS
-https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD
 #EXTGRP:SPORTS
 http://103.205.133.19/hls/ten3.m3u8
@@ -329,7 +337,10 @@ http://103.205.133.14/hls/sonysix.m3u8
 https://stream.amrbd.com/kn2a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD N
 #EXTGRP:SPORTS
-http://otv.ftpbd.net/streams/114/index.m3u8 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD Nx
+#EXTGRP:SPORTS
+http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="SPORTS",Star Sports 8
 #EXTGRP:SPORTS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
@@ -443,6 +454,9 @@ http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC",9x Jalwa
 #EXTGRP:MUSIC
 http://103.141.66.36/bpk-tv/10283/default/manifest.mpd?=.m3u8
+#EXTINF:-1 group-title="MUSIC",8X M HD
+#EXTGRP:MUSIC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/72.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82CxYOo.jpg" group-title="MUSIC",9x Jhakaas
 #EXTGRP:MUSIC
 http://103.141.66.36/bpk-tv/10141/default/manifest.mpd?=.m3u8
@@ -464,6 +478,9 @@ http://103.141.66.36/bpk-tv/10210/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="MUSIC",Zee ETC
 #EXTGRP:MUSIC
 http://103.141.66.36/bpk-tv/10007/default/manifest.mpd?=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="MUSIC",Zee ETC E
+#EXTGRP:MUSIC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUSIC",Zing
 #EXTGRP:MUSIC
 http://103.141.66.36/bpk-tv/10102/default/manifest.mpd?=.m3u8
@@ -509,6 +526,9 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
 #EXTGRP:MUSIC
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
+#EXTGRP:MUSIC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Classics
 #EXTGRP:MUSIC
 https://www.djing.com/tv/classics.m3u8
@@ -676,6 +696,9 @@ http://mantul.biz.id:8888/randu/280520/4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES",LOTUS MACAU
 #EXTGRP:ENGLISH MOVIES
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES",Movie kingdom
+#EXTGRP:ENGLISH MOVIES
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E932mKv.jpg" group-title="ENGLISH MOVIES",Cine Film
 #EXTGRP:ENGLISH MOVIES
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
