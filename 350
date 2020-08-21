@@ -312,7 +312,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
 #EXTGRP:SPORTS
 http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD E
 #EXTGRP:SPORTS
 https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD
