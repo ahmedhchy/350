@@ -91,6 +91,9 @@ http://103.141.66.36/bpk-tv/10030/default/manifest.mpd
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor TV
 #EXTGRP:Bangla News
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="Bangla News",Ekattor HD [Extra]
+#EXTGRP:Bangla News
+http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla News",INDEPENDENT TV
 #EXTGRP:Bangla News
 http://103.141.66.36/bpk-tv/10005/default/manifest.mpd
@@ -173,6 +176,9 @@ NFUzTXQ1aWJwNXljbGxtZHYxa2NoUjNjNXQyVXVBVE95VXpMenhHYXZRWFp1NVNhMzVHYnM1eWN1TUhj
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",MAHA MOVIE
 #EXTGRP:HINDI MOVIES
 NFUzTXQ1aWJwNVNacFozYk5GR2FoMWtMd0lET3k4eWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdFl6TXdNV0x0OXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",MAHA MOVIE
+#EXTGRP:HINDI MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES",BOLLYWOOD
 #EXTGRP:HINDI MOVIES
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
@@ -356,6 +362,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD n
 #EXTGRP:SPORTS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD nc
+#EXTGRP:SPORTS
+http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 2 HD
 #EXTGRP:SPORTS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts?
@@ -434,8 +443,9 @@ https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="SPORTS",Skynet Sports 6
 #EXTGRP:SPORTS
 https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-
-
+#EXTINF:-1 group-title="SPORTS",166.Dubai Sports 1
+#EXTGRP:SPORTS
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="MUSIC",Gaan Bangla
 #EXTGRP:MUSIC
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
