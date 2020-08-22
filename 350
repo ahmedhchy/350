@@ -209,6 +209,9 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD
 #EXTGRP:HINDI MOVIES
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX SD1
+#EXTGRP:HINDI MOVIES
+http://ccn.anytv.live:8080/sonymax/track-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIES",Sony MAX HD bdix
 #EXTGRP:HINDI MOVIES
 http://digiiptv.ddns.net:25461/touhid/6z3ZPbnhgC/147
@@ -539,6 +542,9 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
 #EXTGRP:MUSIC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
+#EXTGRP:MUSIC
+http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Classics
 #EXTGRP:MUSIC
 https://www.djing.com/tv/classics.m3u8
