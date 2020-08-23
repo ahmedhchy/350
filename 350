@@ -712,6 +712,9 @@ http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",HBO hits
 #EXTGRP:ENGLISH MOVIES
 http://mantul.biz.id:8888/randu/280520/4
+#EXTINF:-1 group-title="ENGLISH MOVIES",HBO hD m
+#EXTGRP:ENGLISH MOVIES
+http://dpasdl08.tth.cl:8745/eros/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDIwIDU6MDM6MjQgUE0maGFzaF92YWx1ZT1mNEI5OGZrenlWZDNPQXdBOHRwK1lBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES",LOTUS MACAU
 #EXTGRP:ENGLISH MOVIES
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
