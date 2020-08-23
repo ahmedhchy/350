@@ -398,6 +398,9 @@ http://h2.dimapro.cz:8080/N2vdf6yju0/yWALYygPJt/678?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports 
 #EXTGRP:SPORTS
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS",PK Sports HD
+#EXTGRP:SPORTS
+http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS",OSN SPORTS
 #EXTGRP:SPORTS
 http://212.47.252.54/hls/stream.m3u8
@@ -539,10 +542,10 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
 #EXTGRP:MUSIC
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV B
 #EXTGRP:MUSIC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV A
 #EXTGRP:MUSIC
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Classics
