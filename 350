@@ -341,6 +341,15 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony Six HD
 #EXTGRP:SPORTS
 http://103.205.133.14/hls/sonysix.m3u8
+#EXTINF:-1 group-title="SPORTS",Six HD 1
+#EXTGRP:SPORTS
+http://103.214.202.218:8081/live/sonysix/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",bein Sports HD1 x
+#EXTGRP:SPORTS
+http://203.150.107.30:8081/tested2iptv/core2/chunklist_w2034228426.m3u8
+#EXTINF:-1 group-title="SPORTS",bein Sports HD2 xx
+#EXTGRP:SPORTS
+http://203.150.107.30:8081/tested2iptv/core4/chunklist_w1618479252.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD
 #EXTGRP:SPORTS
 https://stream.amrbd.com/kn2a/tracks-v1a1/mono.m3u8
@@ -350,6 +359,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD Nx
 #EXTGRP:SPORTS
 http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN HDx
+#EXTGRP:SPORTS
+http://103.214.202.218:8081/live/espnhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="SPORTS",Star Sports 8
 #EXTGRP:SPORTS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
@@ -410,6 +422,9 @@ http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="SPORTS",D SportS
 #EXTGRP:SPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="SPORTS",D Sport 2
+#EXTGRP:SPORTS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU" group-title="SPORTS",Sky Sports Cricket HD
 #EXTGRP:SPORTS
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
@@ -452,6 +467,22 @@ https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 #EXTINF:-1 group-title="SPORTS",166.Dubai Sports 1
 #EXTGRP:SPORTS
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+#EXTINF:-1 group-title="SPORTS",Sony Ten 1 HD x
+#EXTGRP:SPORTS
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten 2 HDxx
+#EXTGRP:SPORTS
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS",Sony Ten 3 HDxxx
+#EXTGRP:SPORTS
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS",Ten Sportsxxx
+#EXTGRP:SPORTS
+http://119.153.108.154:9981/stream/channelid/755889341
+#EXTINF:-1 group-title="SPORTS",PTV Sports x
+#EXTGRP:SPORTS
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="MUSIC",Gaan Bangla
 #EXTGRP:MUSIC
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
