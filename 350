@@ -518,9 +518,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUSIC",Zing
 #EXTGRP:MUSIC
 http://103.141.66.36/bpk-tv/10102/default/manifest.mpd?=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eptm0IX.jpg" group-title="MUSIC",Dhamaal
-#EXTGRP:MUSIC
-http://103.141.66.36/bpk-tv/10504/default/manifest.mpd?=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="MUSIC",Zoom
 #EXTGRP:MUSIC
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
@@ -530,24 +528,14 @@ http://103.141.66.36/bpk-tv/10334/default/manifest.mpd?=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuyqwRZ.png" group-title="MUSIC",MK Tunes
 #EXTGRP:MUSIC
 http://103.141.66.36/bpk-tv/10165/default/manifest.mpd?=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="MUSIC",Ary Musik
-#EXTGRP:MUSIC
-http://103.141.66.36/bpk-tv/10089/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg”group-title="MUSIC",8XM
-#EXTGRP:MUSIC
-https://playlive.goonj.pk/8xmweb_480p/index.m3u8
-#EXTINF:-1 tvg-logo=group-title="MUSIC",VH1 HD
-#EXTGRP:MUSIC
-http://103.141.66.36/bpk-tv/10151/default/manifest.mpd
+
+
 #EXTINF:-1tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png"group-title="MUSIC",Retro Music TV
 #EXTGRP:MUSIC
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8QAry8.jpg" group-title="MUSIC",Mooz Hits
 #EXTGRP:MUSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png"group-title="MUSIC",Channel [V]
-#EXTGRP:MUSIC
-rtmp://ivi.bupt.edu.cn:1935/livetv/channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hy7Vb61.jpg" group-title="MUSIC",Mooz HD
 #EXTGRP:MUSIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(3670016)?start=LIVE&end=END
@@ -563,15 +551,10 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV B
 #EXTGRP:MUSIC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC",MTV A
-#EXTGRP:MUSIC
-http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Classics
 #EXTGRP:MUSIC
 https://www.djing.com/tv/classics.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Dancefloor
-#EXTGRP:MUSIC
-https://www.djing.com/tv/dancefloor.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="MUSIC", DJing Hits
 #EXTGRP:MUSIC
 https://www.djing.com/tv/hits.m3u8
