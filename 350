@@ -599,18 +599,14 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES",Sony Pix HD
 #EXTGRP:ENGLISH MOVIES
 http://103.205.133.14/hls/sonypix.m3u8
-#EXTINF:-1tvg-logo=" https://i.imgur.com/gUu2nMa.png " group-title="ENGLISH MOVIES", HBO
+#EXTINF:-1tvg-logo=" https://i.imgur.com/gUu2nMa.png " group-title="ENGLISH MOVIES", MOVIES NOW
 #EXTGRP:ENGLISH MOVIES
 http://45.249.187.238:8081/hls/new13.m3u8
-#EXTINF:-1tvg-logo=" https://i.imgur.com/gUu2nMa.png " group-title="ENGLISH MOVIES", HBO HD
-#EXTGRP:ENGLISH MOVIES
-http://iptvpro.premium-showtv.org:8789/1234567/7654321/1955
+
 #EXTINF:-1tvg-logo=" https://i.imgur.com/t7EdQXU.png"group-title="ENGLISH MOVIES", Star Movies
 #EXTGRP:ENGLISH MOVIES
 http://45.249.187.238:8081/hls/tsl-8.m3u8
-#EXTINF:-1 tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB HD
-#EXTGRP:ENGLISH MOVIES
-https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
+
 #EXTINF:-1 tvg-logo=” https://i.imgur.com/eWdROQp.png” group-title="ENGLISH MOVIES",WB HD (EXTRA)
 #EXTGRP:ENGLISH MOVIES
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
@@ -655,16 +651,11 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Hollywood hd
 #EXTGRP:ENGLISH MOVIES
-http://185.236.229.2:8000/play/a02h/index.m3u8
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Cinema world
 #EXTGRP:ENGLISH MOVIES
 http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",Star world hd
-#EXTGRP:ENGLISH MOVIES
-http://starshare.live:8080/live/216176@56/801966@56/797.ts
-#EXTINF:-1 group-title="ENGLISH MOVIES",Star movies hd 1
-#EXTGRP:ENGLISH MOVIES
-http://starshare.cc:41000/556747/556747/796
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",Star movies hd 2
 #EXTGRP:ENGLISH MOVIES
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
@@ -685,27 +676,15 @@ http://stream99.astalavistababy.xyz/selcuksportssinema/foxcrime/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Fox M action 2
 #EXTGRP:ENGLISH MOVIES
 http://mantul.biz.id:8888/randu/280520/51
-#EXTINF:-1 group-title="ENGLISH MOVIES",Bein movies 1
-#EXTGRP:ENGLISH MOVIES
-http://stream99.astalavistababy.xyz/selcuksportssinema/beinmoviesaction/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",Bein movies 2
-#EXTGRP:ENGLISH MOVIES
-http://stream99.astalavistababy.xyz/selcuksportssinema/beinseriesscfi/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",Bein movies 3
-#EXTGRP:ENGLISH MOVIES
-http://stream99.astalavistababy.xyz/selcuksportssinema/beinseriescomedy/playlist.m3u8
+
 #EXTINF:-1 group-title="ENGLISH MOVIES",Fox crime hd 4
 #EXTGRP:ENGLISH MOVIES
 http://2.58.193.242:25461/live/yasinnyell/yelcii0803/10.m3u8?token=TBEOVUNZG1xBVVcHWwZfXQ5TWwECCwlQUVYADVBUAQcCUFIEVlRfBVUVGRERRxRdV1tnWFQaCwQHB1UGH0NARFJBOV1UEwNEUQcNAVERShpCX1VUEgIBGRJEClARWxcEBAZUBAgTFUQGT0FWEF0HVGlSXUdZW1QXCloWWF9NF1hZbAJRXVBXAkENFwJAH0RRRUYaC15NXVkcFgFdRxNUQ1IRXBYDAgxWQRsXUA1GCExETxoLEmxjFxwWBkxHBFtEXlwIFgoTVFUWDxcfQFoVZ0RTS0VCXVBYVUZBDhFRFxsVXgdMb1JWCA1SVkcLXAhLFAwaABIUE1hfWgpAXBNqR15XRA4SAwlTWwcEER8
 #EXTINF:-1 group-title="ENGLISH MOVIES",Fox movies 
 #EXTGRP:ENGLISH MOVIES
 http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",HBO hits
-#EXTGRP:ENGLISH MOVIES
-http://mantul.biz.id:8888/randu/280520/4
-#EXTINF:-1 group-title="ENGLISH MOVIES",HBO hD m
-#EXTGRP:ENGLISH MOVIES
-http://dpasdl08.tth.cl:8745/c2VydmVyX3RpbWU9OC8yMy8yMDIwIDU6MDM6MjQgUE0maGFzaF92YWx1ZT1mNEI5OGZrenlWZDNPQXdBOHRwK1lBPT0mdmFsaWRtaW51dGVzPTI/eros/hbohd/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="ENGLISH MOVIES",LOTUS MACAU
 #EXTGRP:ENGLISH MOVIES
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
@@ -730,9 +709,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",UK: HBO
 #EXTGRP:ENGLISH MOVIES
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH MOVIES",IN: HBO HD
-#EXTGRP:ENGLISH MOVIES
-http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Hbo_HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5NUuPl.jpg" group-title="PAK ENT.",Hum Sitaray 
 #EXTGRP:PAK ENT.
