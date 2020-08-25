@@ -805,12 +805,6 @@ https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network FHD" tvg-logo="" group-title="KIDS",Cartoon Network HD
 #EXTGRP:KIDS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts?
-#EXTINF:-1 group-title="KIDS",Hungama Cartoon
-#EXTGRP:KIDS
-http://202.163.117.6:9981/stream/channelid/1357890196
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lhGwCpE.jpg" group-title="KIDS",Shemaroo Kids
-#EXTGRP:KIDS
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6sbsbHc.png" group-title="KIDS",Tom & Jerry Show
 #EXTGRP:KIDS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595630924/ei/7BAbX7zVCM6nwgOvuqiQAg/ip/103.138.145.142/id/BRkQ-ZGiNbc.1/source/yt_live_broadcast/requiressl/yes/tx/23880666/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPo6O7tWCOhDmvvsoNFi0Vboh-7kDAVVghjkKTT1YdwMAiEAvuvrjlC4YGvzdHv_OTHa7t0z9tKKaIHmCUARXPTE8OM%3D/file/index.m3u8
@@ -823,12 +817,6 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20fs4tp.png" group-title="KIDS",Disney INDIA
 #EXTGRP:KIDS
 http://45.249.187.238:8081/hls/live0.m3u8
-#EXTINF:-1 group-title="KIDS",Pogo SD
-#EXTGRP:KIDS
-http://45.249.187.238:8081/hls/hdmi1.m3u8
-#EXTINF:-1 tvg-logo=group-title="KIDS",Toonami aftermath
-#EXTGRP:KIDS
-https://sp6.toonamiaftermath.com/livehttporigin/est/lalRCx-acZl9Q-chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS", Animax
 #EXTGRP:KIDS
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
@@ -841,21 +829,26 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="KIDS",Classic Toons
 #EXTGRP:KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS",MBC 3
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/W4KuSN3.png" group-title="KIDS",Cheebies Asia
 #EXTGRP:KIDS
-https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
-#EXTINF:-1tvg-logo="group-title="KIDS",DORAEMON MOVIE
+https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Kids",SONY YAY
 #EXTGRP:KIDS
-http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-#EXTINF:-1 tvg-logo=group-title="KIDS",DRAGON BALL Z
+http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KIDS",,Nick JR.+
 #EXTGRP:KIDS
-https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
-#EXTINF:-1tvg-logo=group-title="KIDS",ONE PIECE 
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KIDS",Nick HD++
 #EXTGRP:KIDS
-http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-#EXTINF:-1 tvg-logo=group-title="KIDS",ONE PUNCH MAN
+https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="KIDS",Disney XD
 #EXTGRP:KIDS
-http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+
+
 #EXTINF:-1tvg-logo="https://i.imgur.com/ixywxhs.jpg"group-title="KIDS",Adult Swim
 #EXTGRP:KIDS
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
