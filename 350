@@ -571,18 +571,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts?
 #EXTINF:-1 group-title="ENGLISH ENT.",Colours infinity hd
 #EXTGRP:ENGLISH ENT.
 https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.",Zee Cafe
-#EXTGRP:ENGLISH ENT.
-http://103.141.66.36/bpk-tv/10229/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="ENGLISH ENT.",Zee Cafe HD
 #EXTGRP:ENGLISH ENT.
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="ENGLISH ENT.",MR BEAN SHOW
-#EXTGRP:ENGLISH ENT.
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595631536/ei/UBMbX5cdpv3j4Q_3jKmgCg/ip/103.138.145.142/id/_0dz86BC6k8.0/source/yt_live_broadcast/requiressl/yes/tx/23880666/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ70owS-Qkbq7tBu7gnLK6KoRgxyffScRYEKcvsUyu_sAiBhm_-ywsdus5frEkjfdVKMQMCq858K8ZTW15ka4l_t8A%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="ENGLISH ENT.",MR BEAN SHOW
-#EXTGRP:ENGLISH ENT.
-PT1BTTkwMmRrVldadTlqZHNabUxoVkdaNFkyWXhjVE95RW1ObVJXTWtObU00Z2pZa05XWndJRE9pZGpONFlqYzVJak4zSUROeUVUTjVrVE54VTNjdlVtZHB4Mkx3Z2pPMlJuTHYxV2F1NWlkc1ptTHpkM0x2b0RjMFJIYQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="ENGLISH ENT.",Comedy Central
 #EXTGRP:ENGLISH ENT.
 https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
@@ -595,21 +587,13 @@ https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="ENGLISH ENT.",Cine Series
 #EXTGRP:ENGLISH ENT.
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWYVCH1.png" group-title="ENGLISH ENT.",FOX 
-#EXTGRP:ENGLISH ENT.
-https://cdn-laos.workpoint.news/sd-fox_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbGgNde.png" group-title="ENGLISH ENT.",Warner TV
 #EXTGRP:ENGLISH ENT.
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xr6RwMC.png" group-title="ENGLISH ENT.",KIX HD
 #EXTGRP:ENGLISH ENT.
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HRhSHXW.jpg" group-title="ENGLISH ENT.",TV 100
-#EXTGRP:ENGLISH ENT.
-http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5j5FjR3.jpg" group-title="ENGLISH ENT.",Retro TV
-#EXTGRP:ENGLISH ENT.
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="ENGLISH MOVIES",Sony Pix HD
