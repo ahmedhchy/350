@@ -337,6 +337,39 @@ http://103.205.133.14/hls/sonysix.m3u8
 #EXTINF:-1 group-title="SPORTS",Six HD 1
 #EXTGRP:SPORTS
 http://103.214.202.218:8081/live/sonysix/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",Willow HDx
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/1067.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports Cricketx
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2090.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports Footballx
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2093.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports EPLx
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2092.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports Main Eventx
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2091.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports Arena x
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2095.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports F1 x
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2094.ts
+#EXTINF:-1 group-title="SPORTS",Sky Sports Golf x
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2096.ts
+#EXTINF:-1 group-title="SPORTS",BT Sports-1 x
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2097.ts
+#EXTINF:-1 group-title="SPORTS",BT Sports-2x
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2098.ts
+#EXTINF:-1 group-title="SPORTS",BT Sports-3x
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/33364/07007/2099.ts
 #EXTINF:-1 group-title="SPORTS",bein Sports HD1 x
 #EXTGRP:SPORTS
 http://203.150.107.30:8081/tested2iptv/core2/chunklist_w2034228426.m3u8
