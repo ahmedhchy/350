@@ -2,7 +2,7 @@
 #EXTGRP:Bangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Bangla",BTV
 #EXTGRP:Bangla
-http://103.141.66.36/bpk-tv/10330/default/manifest.mpd?=.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla",Sangsad TV
 #EXTGRP:Bangla
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
@@ -33,12 +33,21 @@ https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangla",Channel I HD
 #EXTGRP:Bangla
 http://103.141.66.36/bpk-tv/10026/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HDx
+#EXTGRP:Bangla
+http://45.249.187.238:8081/hls/live7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HDxx
+#EXTGRP:Bangla
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/??????_????.svg/300px-??????_????.svg.png" group-title="Bangla",Nagorik TV HD
 #EXTGRP:Bangla
 http://103.205.133.14/hls/nagorik.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="Bangla",Deepto TV HD
 #EXTGRP:Bangla
 http://103.141.66.36/bpk-tv/10455/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HDx
+#EXTGRP:Bangla
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla",Bangla Vision
 #EXTGRP:Bangla
 http://103.141.66.36/bpk-tv/10027/default/manifest.mpd
