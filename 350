@@ -102,6 +102,9 @@ http://45.249.187.238:8081/hls/hdmi4.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla News", Somoy TV FHDx
 #EXTGRP:Bangla News
 http://45.249.187.238:8081/hls/hdmi2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Somoy TV" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla News",Somoy TVx
+#EXTGRP:Bangla News
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangla News",JAMUNA TV
 #EXTGRP:Bangla News
 http://103.141.66.36/bpk-tv/10037/default/manifest.mpd
