@@ -265,9 +265,15 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo-group-title="HINDI MOVIES", Movie Plus
 #EXTGRP:HINDI MOVIES
 http://103.141.66.36/bpk-tv/10138/default/manifest.mpd
+#EXTINF:-1 group-title="HINDI MOVIES",Zee Cinema UK
+#EXTGRP:HINDI MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imageb2e3492b1ceca602.png" group-title="HINDI MOVIES",Wow Cinema
 #EXTGRP:HINDI MOVIES
 http://103.205.133.14/hls/wowcinema.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES",SONY MAX FHD
+#EXTGRP:HINDI MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="HINDI ENT.",COLORS
 #EXTGRP:HINDI ENT.
@@ -516,6 +522,67 @@ http://119.153.108.154:9981/stream/channelid/755889341
 #EXTGRP:SPORTS
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HDz
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/1067.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD (1)a
+#EXTGRP:SPORTS
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD (2)a
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2090.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Footballa
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2093.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports EPLa
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2092.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Main Eventa
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2091.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Arenaa
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2095.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports F1a
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2094.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Golfa
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2096.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1a
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2097.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2a
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2098.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3a
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2099.ts
+#EXTINF:-1 tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/4.png" group-title="SPORTS",BT Sports-4 ESPNaa
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/2099.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports (1)aa
+#EXTGRP:SPORTS
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports (2)aa
+#EXTGRP:SPORTS
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports (1)
+#EXTGRP:SPORTS
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports (2)
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/1068.ts
+#EXTINF:-1 tvg-logo="https://www.geosuper.tv/assets/front/img/live_banner.jpg" group-title="SPORTS",Geo Super (1)
+#EXTGRP:SPORTS
+https://watchindia.net:8443/live/71446/19395/1016.ts
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="MUSIC",Gaan Bangla
 #EXTGRP:MUSIC
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
@@ -689,6 +756,9 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="ENGLISH MOVIES",ROMEDY NOW
 #EXTGRP:ENGLISH MOVIES
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES",Star Movies HD [ARAB]
+#EXTGRP:ENGLISH MOVIES
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/54341
 #EXTINF:-1 group-title="ENGLISH MOVIES",Hollywood hd
 #EXTGRP:ENGLISH MOVIES
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
@@ -749,6 +819,12 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 #EXTINF:-1 group-title="ENGLISH MOVIES",UK: HBO
 #EXTGRP:ENGLISH MOVIES
 http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH MOVIES",HBO HD
+#EXTGRP:ENGLISH MOVIES
+https://watchindia.net:8443/live/71446/19395/2081.ts
+#EXTINF:-1 group-title="ENGLISH MOVIES",HBO India xx
+#EXTGRP:ENGLISH MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5NUuPl.jpg" group-title="PAK ENT.",Hum Sitaray 
 #EXTGRP:PAK ENT.
