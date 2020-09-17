@@ -3391,13 +3391,13 @@ http://45.249.187.238:8081/hls/new6.m3u8
 http://45.249.187.238:8081/hls/live4.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Independent TV
 http://45.249.187.238:8081/hls/hdmi4.m3u8
-#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Somoy News
+#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Colours
 http://45.249.187.238:8081/hls/hdmi2.m3u8
-#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_DBC News
+#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",9xm
 http://45.249.187.238:8081/hls/new23.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Duranto TV
 http://45.249.187.238:8081/hls/new3.m3u8
-#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Zee Bangla
+#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Somoy News
 http://45.249.187.238:8081/hls/new8.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Songit Bangla
 http://45.249.187.238:8081/hls/new7.m3u8
@@ -3413,7 +3413,7 @@ http://45.249.187.238:8081/hls/new2.m3u8
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_CNN News
 http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_All Jazeera
+#EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_ATN Bangla
 http://45.249.187.238:8081/hls/new17.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Movies Now
 http://45.249.187.238:8081/hls/new13.m3u8
