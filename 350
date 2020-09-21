@@ -15,6 +15,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1 ,Star Jalsha HDxx
 http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
+#EXTINF:-1 ,Sky sports
+https://watchindia.net:8443/live/11951/70331/2143.ts
 #EXTINF:-1 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="Sports",Jio Cricket English HD
 http://iptv.mirrorace.net/?channelid=430 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
