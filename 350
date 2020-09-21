@@ -5,10 +5,14 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/110.m3u8
 http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
 #EXTINF:-1 ,GTV 3
 http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
-#EXTINF:-1 GTV 4
+#EXTINF:-1 ,GTV 4
 http://45.249.187.238:8081/hls/live5.m3u8
-#EXTINF:-1 GTV 5
+#EXTINF:-1 ,GTV 5
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:-1 ,GTV 6
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF:-1 ,Star Jalsha HDx
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="Sports",Jio Cricket English HD
 http://iptv.mirrorace.net/?channelid=430 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
