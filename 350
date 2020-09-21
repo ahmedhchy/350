@@ -3370,7 +3370,7 @@ http://45.249.187.238:8081/hls/live3.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Gazi TV
 http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Gazi TVx
-http://45.249.187.238:8081/hls/live20.m3u8
+http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Ekattor TV
 http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF:-1 group-title="MOVIE BAZAR TV" tvg-logo="http://45.249.187.238/images/logo.png",MB_Channel I
